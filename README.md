@@ -1,4 +1,5 @@
 # João Victor Garcia
+# Leonardo Henrique Bernardes de Souza
 
 # Tarefas_pessoais.
 Gerenciador de tarefas.
