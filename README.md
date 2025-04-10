@@ -24,3 +24,4 @@ SELECT * FROM todolist.tarefa;
 
 # Comando para rodar o projeto
 mvn spring-boot:run 
+Após isso o projeto estara rodando e sera possivel realizar GET,POST,UPDATE,DELETE como desejado dentro do projeto tem um HTML onde possui uma interfaçe basico onde se pode realizar essas ações facilmente.
