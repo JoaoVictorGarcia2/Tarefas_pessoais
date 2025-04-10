@@ -1,7 +1,10 @@
 # João Victor Garcia
 
 # Tarefas_pessoais.
-Gerenciador de tarefas
+Gerenciador de tarefas.
+
+# Para funcionar
+Gere o banco de dados necessario e após isso configure o application.properties com seus dados.
 
 # Comandos para gerar o banco de dados.
 CREATE SCHEMA todolist;
